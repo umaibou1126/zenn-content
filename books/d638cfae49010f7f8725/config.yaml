@@ -1,0 +1,11 @@
+title: "Vue入門"
+summary: "Vue入門記事まとめ"
+topics: ["Vue", "JavaScript"]
+published: true
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - example1
+  - example2
+  - example3
+  - example4
