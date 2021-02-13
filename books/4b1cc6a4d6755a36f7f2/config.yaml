@@ -1,0 +1,10 @@
+title: "Terraform 入門"
+summary: "Terraformに関する入門記事です"
+topics: ["Terraform", "AWS"]
+published: true
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - ec2
+  - ecs
+  - deploy
