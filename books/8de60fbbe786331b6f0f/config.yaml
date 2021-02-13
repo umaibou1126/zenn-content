@@ -1,0 +1,11 @@
+title: "Flutter エラー解決まとめ"
+summary: "Flutter関連のエラーをまとめました"
+topics: ["Flutter", "Firebase", "AWS Amplify"]
+published: true
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - example1
+  - example2
+  - example3
+  - example4
