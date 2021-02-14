@@ -1,5 +1,5 @@
 ---
-title: "【Vue Rails】Vue + Railsで"Hello Vue!"表示"
+title: "【Vue Rails】Vue + RailsでHello Vue!表示"
 ---
 
 # Vue + Railsアプリ作成

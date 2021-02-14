@@ -1,7 +1,7 @@
 title: "Ruby on Rails 入門"
 summary: "Ruby on Railsの基礎知識について、まとめました"
 topics: ["Ruby", "Rails", "Vue.js", "AWS"]
-published: false
+published: true
 price: 0 # 有料の場合200〜5000
 # 本に含めるチャプターを順番に並べましょう
 chapters:
